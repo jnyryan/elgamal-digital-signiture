@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding:UTF-8
 """
-Practical 8
 
 Implement an ElGamal Digital Signature Scheme using the hash function SHA-1
 
